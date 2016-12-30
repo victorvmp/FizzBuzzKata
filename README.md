@@ -1,4 +1,5 @@
 # About this Kata
+http://codingdojo.org/cgi-bin/index.pl?KataFizzBuzz
 This Kata was posted here by someone anonymously. Michael Feathers and EmilyBache performed it at agile2008 when competing in "Programming with the stars" in python, in 4 minutes.
 
 Difficulty: Easy Good for teaching: TDD, BabySteps
